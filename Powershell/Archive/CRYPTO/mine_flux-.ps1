@@ -1,0 +1,2 @@
+cd miniZ_v1.7x3_win-x64
+./miniZ.exe --par=125,4 --intensity=100 --url=t1QW3vCcjj4CRn3PPA58i7FyRNajpShdmSz@us-flux.fluxpools.net:2001 -p minpayout=20 --pers=ZelProof --latency --extra --gpu-line --show-mode

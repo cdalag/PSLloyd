@@ -1,0 +1,1 @@
+invoke-expression start-process wt -command {write-host "a";}

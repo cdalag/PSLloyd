@@ -1,0 +1,1 @@
+sudo wt pwsh -noexit -file "C:\Users\Christopher Dalag\mine_flux.ps1"
